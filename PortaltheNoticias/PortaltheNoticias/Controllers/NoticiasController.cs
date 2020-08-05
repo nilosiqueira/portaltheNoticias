@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace PortaltheNoticias.Controllers
 {
-    public class NoticiaController : Controller
+    public class NoticiasController : Controller
     {
         // GET: NoticiaController
         public ActionResult Index()

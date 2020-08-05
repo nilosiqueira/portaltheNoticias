@@ -108,3 +108,4 @@ C:\Users\Nilo\Documents\GitHub\portaltheNoticias\PortaltheNoticias\PortaltheNoti
 C:\Users\Nilo\Documents\GitHub\portaltheNoticias\PortaltheNoticias\PortaltheNoticias\obj\Debug\netcoreapp3.1\PortaltheNoticias.dll
 C:\Users\Nilo\Documents\GitHub\portaltheNoticias\PortaltheNoticias\PortaltheNoticias\obj\Debug\netcoreapp3.1\PortaltheNoticias.pdb
 C:\Users\Nilo\Documents\GitHub\portaltheNoticias\PortaltheNoticias\PortaltheNoticias\obj\Debug\netcoreapp3.1\PortaltheNoticias.genruntimeconfig.cache
+C:\Users\Nilo\Documents\GitHub\portaltheNoticias\PortaltheNoticias\PortaltheNoticias\obj\Debug\netcoreapp3.1\Razor\Views\Noticias\Buscar.cshtml.g.cs

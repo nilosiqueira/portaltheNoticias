@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace PortaltheNoticias.Models
 {
-    public class NoticiasModel
+    public class Noticia
     {
     }
 }
